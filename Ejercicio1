@@ -1,0 +1,11 @@
+Diseñar un sitio web que con las siguientes características
+
+1. Debe tener al menos tres páginas navegables entre sí.
+2. Cada página debe tener un menú que ocupe el 30% del tamaño de la página. El menú será la forma de navegar entre páginas. 
+3. Cada elemento del menú debe ser un hyper enlace que tenga un color de fondo, que debe cambiar cuando el cursor se posicione sobre el elemento. No debe estar subrayado y no debe de cambiar de color cuando ya se haya visitado.
+4. En el 70% del espacio restante la página tiene que tener un fondo ( color o imagen) 
+5. Los estilos deben ser definidos en un archivo separado del código html
+6. Cada página debe contar con un título y debe personalizar alguna de las etiquetas para título (h1, h2, …).
+7. En alguna de las páginas debe haber una tabla donde los renglones pares se vean con un color y los renglones impares con otro (Al menos deben existir 4 columnas y 6 renglones).
+8. Investigar la etiqueta footer y colocarla con su nombre, una fuente de referencia, con alineación centrada.
+9. Insertar una imagen que contenga un enlace a otra página.
